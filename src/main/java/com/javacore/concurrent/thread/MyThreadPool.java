@@ -1,4 +1,4 @@
-package com.javacore.concurrent;
+package com.javacore.concurrent.thread;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.Executor;
