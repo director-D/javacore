@@ -74,6 +74,8 @@ public class PlainNioServer {
                         client.close();
                     }
 
+
+
                 } catch (IOException ex) {
                     key.cancel();
                     try {
